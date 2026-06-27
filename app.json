@@ -1,0 +1,9 @@
+{
+  "ad": "Test Deneme",
+  "kapak_fotografi_yolu": "ataturk.jpeg",
+  "aciklama_dosyasi_yolu": "description.txt",
+  "ekran_goruntuleri_yollari": [
+    "ataturk.jpeg"
+  ],
+  "ana_dosya_yolu": "DockDoor.dmg"
+}
